@@ -1,5 +1,5 @@
 ## Read your day to day stories
-The goals of this website is to provide you stories each day.Enjoy your life from past experiences
+The goals of this website is to provide you stories each day. Enjoy your life from past experiences
  Read your story
 Once when a lion, the king of the jungle, was asleep, a little mouse began running up and down on him. This soon awakened the lion, who placed his huge paw on the mouse, and opened his big jaws to swallow him.
 
