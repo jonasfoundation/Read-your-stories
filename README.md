@@ -16,44 +16,10 @@ Just then the little mouse happened to pass by. On seeing the lion’s plight, h
 
 MORAL: Small acts of kindness will be rewarded greatly.
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>HTML: Images</title>
-    </head>
-    <body>
+One day a rabbit was boasting about how fast he could run. He was laughing at the turtle for being so slow. Much to the rabbit’s surprise, the turtle challenged him to a race. The rabbit thought this was a good joke and accepted the challenge. The fox was to be the umpire of the race. As the race began, the rabbit raced way ahead of the turtle, just like everyone thought.
+## Read your day to day stories
+The rabbit got to the halfway point and could not see the turtle anywhere. He was hot and tired and decided to stop and take a short nap. Even if the turtle passed him, he would be able to race to the finish line ahead of him. All this time the turtle kept walking step by step by step. He never quit no matter how hot or tired he got. He just kept going.
 
-    <h1>All about rabbits!</h1>
-   
-     <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevinknightsql.com%2F2017%2F03%2F07%2Fpower-bi-custom-visuals-class-module-41-image-viewer%2F&psig=AOvVaw1HjKtaNrQnQHJW3I9nilOy&ust=1675921259541000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCuwsGbhf0CFQAAAAAdAAAAABAD.png" alt="Rabbit with lop ears in barn" width="203">
-    
-    <h3>Why rabbits make great pets</h3>
-    
-    <ul>
-        <li>They're furry!</li>
-        <li>Great listeners!</li>
-        <li>Eat all your leftover carrots!</li>
-    </ul>
-    
-    <h3>Top 3 most famous rabbits</h3>
-    
-    <ol>
-        <li>Bugs bunny</li>
-        <li>Easter Bunny</li>
-        <li>Thumper</li>
-    </ol>
-    
-    <h2>Basic info</h2>
-    
-    <p>Rabbits are little creatures with long ears and puffy tails, and they move their nose up and down in an adorable way. They eat the most orange vegetables in <em>our</em> world, and <strong>they reproduce more than any human <em>ever</em> has</strong>.</p>
-    
-    <h2>Songs</h2>
-    
-    <p>Little Bunny Foo Foo, <br>
-I don't want to see you <br>
-scooping up the field mice <br>
-and bopping them on the head!</p>
+However, the rabbit slept longer than he had thought and woke up. He could not see the turtle anywhere! He went at full speed to the finish line but found the turtle there waiting for him.
 
-    </body>
-</html>
+Moral: never underestimate the weakest opponent.
